@@ -24,8 +24,14 @@ Crée un components dis Stateless:
 
 
 
+### Les props: 
+Crée un props et utiliser un props:
+exemple: 
+
+#### fic
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDUwMTM0NjgsLTQ2Nzk0NzE5MiwtMT
-Q1NTY1OTA3NF19
+eyJoaXN0b3J5IjpbLTY1NDczNDMxMCwtNDY3OTQ3MTkyLC0xND
+U1NjU5MDc0XX0=
 -->
