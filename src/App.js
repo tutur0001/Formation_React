@@ -1,18 +1,24 @@
-import React, { Component, Fragment } from 'react' 
+import React, { Component } from 'react' 
 import './App.css';
 import Membre from './components/Membre'
 
+
+// Component StateFul
 class App extends Component { 
   render() {
+    const { titre } = this.props
     return(
-      <Fragment>
         <div className='App'>
-          <h1>First App in react</h1>
-          <Membre />
+          <h1>{ titre }</h1>
+          <Membre nom= 'Arthur' />
+          <Membre nom= 'Apolline' />
+          <Membre nom= 'Bilel' />
+          <Membre nom= 'Test' />
         </div>
-      </Fragment>
     )
-  }
+    }
 }
+// 
 
 export default App;
+  

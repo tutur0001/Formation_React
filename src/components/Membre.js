@@ -3,17 +3,12 @@ import React from 'react'
 
 // Component Stateless
 
-const Membre = () => {
+const Membre = ({ nom }) => {
     return (
-        <h2>Membre</h2>
+        <h2>Membre de la famille: {nom.toUpperCase()}</h2>
     )
 }
 
 // 
-
-
-
-
-
 
 export default Membre
