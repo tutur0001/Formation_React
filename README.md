@@ -51,8 +51,8 @@ exemple:
 		)
 	}
 
-Dans mon fichier App.js dans mon component 
+Dans mon fichier App.js dans mon component `<Membre />`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxNzEzMzY2LC00Njc5NDcxOTIsLTE0NT
-U2NTkwNzRdfQ==
+eyJoaXN0b3J5IjpbLTc2NTIwODAyMywtNDY3OTQ3MTkyLC0xND
+U1NjU5MDc0XX0=
 -->
