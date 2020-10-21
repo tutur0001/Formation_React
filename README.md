@@ -51,8 +51,10 @@ exemple:
 		)
 	}
 
-Dans mon fichier App.js dans mon component `<Membre />`
+Dans mon fichier App.js dans mon component `<Membre />` on ajoute un 'attributs' qui dans notre cas est 'nom' je lui donne valeur. 
+
+Ensuite dans mon C
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTIwODAyMywtNDY3OTQ3MTkyLC0xND
-U1NjU5MDc0XX0=
+eyJoaXN0b3J5IjpbLTE0NDY1NDY4MTUsLTc2NTIwODAyMywtND
+Y3OTQ3MTkyLC0xNDU1NjU5MDc0XX0=
 -->
