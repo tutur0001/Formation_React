@@ -37,7 +37,7 @@ exemple:
 					<h1> Mon super titre</h1>
 					<Membre nom= 'Arthur />
 					<Membre nom= 'Adam' />
-			</div>
+				</div>
 			)
 		}
 	}
@@ -45,8 +45,13 @@ exemple:
 
 #### Fichier Components Membre.js 
 
-	const Membre = ({ nom }) => 
+	const Membre = ({ nom }) => {
+		return (
+			<h2>Membre de la famille: {nom}</h2>
+		)
+	}
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzEwNjAwOSwtNDY3OTQ3MTkyLC0xND
-U1NjU5MDc0XX0=
+eyJoaXN0b3J5IjpbODU0NTk5MDQ5LC00Njc5NDcxOTIsLTE0NT
+U2NTkwNzRdfQ==
 -->
