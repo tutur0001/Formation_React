@@ -43,8 +43,10 @@ exemple:
 	}
 
 
-Nous avons donc 
+#### Fichier Components Membre.js 
+
+	const Membre = ({ nom }) => 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTI0MzY4MiwtNDY3OTQ3MTkyLC0xND
+eyJoaXN0b3J5IjpbMTc5NzEwNjAwOSwtNDY3OTQ3MTkyLC0xND
 U1NjU5MDc0XX0=
 -->
