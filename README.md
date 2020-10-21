@@ -54,8 +54,9 @@ exemple:
 Dans mon fichier App.js dans mon component `<Membre />` on ajoute un 'attributs' qui dans notre cas est 'nom' je lui donne valeur. 
 
 Ensuite dans mon fichier Membre.js on peut remarquer que je fais passer un attributs a ma fonctions.
-On appel cela un 'props', prips
+On appel cela un 'props', props va enfaite crée un objet utilisable je vais donc pouvoir l'afficher.
+Pour cela j'utilise donc `{nom}` tout simplement entr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjQwNDMzMywtNzY1MjA4MDIzLC00Nj
-c5NDcxOTIsLTE0NTU2NTkwNzRdfQ==
+eyJoaXN0b3J5IjpbLTEwMTY5NzM5OTksLTc2NTIwODAyMywtND
+Y3OTQ3MTkyLC0xNDU1NjU5MDc0XX0=
 -->
