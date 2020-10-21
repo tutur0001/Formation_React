@@ -34,10 +34,15 @@ exemple:
 	render() {
 	return(
 		<div>
-			<h1> Mon super titre
+			<h1> Mon super titre</h1>
+			<Membre nom= 'Arthur />
+			<Membre nom= 'Adam' />
+		</div>
+	)
+	
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTc1MjI4MywtNDY3OTQ3MTkyLC0xND
+eyJoaXN0b3J5IjpbMTU4MzQ4MzQzNiwtNDY3OTQ3MTkyLC0xND
 U1NjU5MDc0XX0=
 -->
