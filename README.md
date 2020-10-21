@@ -55,8 +55,14 @@ Dans mon fichier App.js dans mon component `<Membre />` on ajoute un 'attributs'
 
 Ensuite dans mon fichier Membre.js on peut remarquer que je fais passer un attributs a ma fonctions.
 On appel cela un 'props', props va enfaite crée un objet utilisable je vais donc pouvoir l'afficher.
-Pour cela j'utilise donc `{nom}` tout simplement entr
+Pour cela j'utilise donc `{nom}` tout simplement entre mes balise h2
+
+
+### La props Children: 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY5NzM5OTksLTc2NTIwODAyMywtND
+eyJoaXN0b3J5IjpbLTE3MjEzOTE0MTQsLTc2NTIwODAyMywtND
 Y3OTQ3MTkyLC0xNDU1NjU5MDc0XX0=
 -->
