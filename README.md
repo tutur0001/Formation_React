@@ -50,8 +50,9 @@ exemple:
 			<h2>Membre de la famille: {nom}</h2>
 		)
 	}
-	
+
+Dans mon fichier App.js dans mon component 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0NTk5MDQ5LC00Njc5NDcxOTIsLTE0NT
+eyJoaXN0b3J5IjpbNzMxNzEzMzY2LC00Njc5NDcxOTIsLTE0NT
 U2NTkwNzRdfQ==
 -->
