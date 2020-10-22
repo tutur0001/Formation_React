@@ -99,9 +99,10 @@ Fichier Membre.js :
 
 
 Dans mon fichier `Membre.js` j'importe de React `Fragment`, j'ouvre ensuite ces balise j'y met mon code principal.
-Dans ma fonction Membre je lui fais passer 
+Dans ma fonction Membre je lui fais passer un nouvelle attribut `children`.
+En dessous de emon h2 j'ouvre une accolade a l'intérieur j'utilise mon props children 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTY3NzE5NSwxMDgzMDYzNzYsLTE3Mj
+eyJoaXN0b3J5IjpbMTg5NTUzMzI0MSwxMDgzMDYzNzYsLTE3Mj
 EzOTE0MTQsLTc2NTIwODAyMywtNDY3OTQ3MTkyLC0xNDU1NjU5
 MDc0XX0=
 -->
