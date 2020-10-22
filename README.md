@@ -79,12 +79,12 @@ Fichier App.js:
 
 Fichier Membre.js :
 
-	import React, { Fragment } from  'react' // J'import
+	import React, { Fragment } from  'react' // J'importe Fragment depuis react 
 
 
-	const  Membre  = ({ nom, children }) => {
+	const  Membre  = ({ nom, children }) => {	
 		return (
-			<Fragment>
+			<Fragment>		// J'utulise Fragment
 				<h2>Membre de la famille: {nom.toUpperCase()}</h2>
 				{  children  ?  <p>{children}</p>  :  <Fragment  />  }
 			</Fragment>
@@ -93,6 +93,6 @@ Fichier Membre.js :
 
 	export  default  Membre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzIwNzA5OSwtMTcyMTM5MTQxNCwtNz
-Y1MjA4MDIzLC00Njc5NDcxOTIsLTE0NTU2NTkwNzRdfQ==
+eyJoaXN0b3J5IjpbNDAyNTE1NjI1LC0xNzIxMzkxNDE0LC03Nj
+UyMDgwMjMsLTQ2Nzk0NzE5MiwtMTQ1NTY1OTA3NF19
 -->
