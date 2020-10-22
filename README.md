@@ -97,9 +97,10 @@ Fichier Membre.js :
 	export  default  Membre
 
 
-Dans mon fichier `Membre.js` j'importe de React `Fragment`, j'ouvre ensuite ces balise j'y met mon code 
+Dans mon fichier `Membre.js` j'importe de React `Fragment`, j'ouvre ensuite ces balise j'y met mon code principal.
+J'ouvre de accolades 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Mjk2MTc4OCwtMTcyMTM5MTQxNCwtNz
-Y1MjA4MDIzLC00Njc5NDcxOTIsLTE0NTU2NTkwNzRdfQ==
+eyJoaXN0b3J5IjpbMTA4MzA2Mzc2LC0xNzIxMzkxNDE0LC03Nj
+UyMDgwMjMsLTQ2Nzk0NzE5MiwtMTQ1NTY1OTA3NF19
 -->
