@@ -54,7 +54,8 @@ exemple:
 Dans mon fichier App.js dans mon component `<Membre />` on ajoute un 'attributs' qui dans notre cas est 'nom' je lui donne valeur. 
 
 Ensuite dans mon fichier Membre.js on peut remarquer que je fais passer un attributs a ma fonctions.
-On appel cela un 'props', props va enfaite crée un objet utilisable je vais donc pouvoir l'afficher.
+On appel cela un 'props', props J'ouvre des accolades j'utilise le prop
+va enfaite crée un objet utilisable je vais donc pouvoir l'afficher.
 Pour cela j'utilise donc `{nom}` tout simplement entre mes balise h2
 
 
@@ -98,9 +99,9 @@ Fichier Membre.js :
 
 
 Dans mon fichier `Membre.js` j'importe de React `Fragment`, j'ouvre ensuite ces balise j'y met mon code principal.
-J'ouvre de accolades 
-
+Dans ma fonction Membre je lui fais passer 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzA2Mzc2LC0xNzIxMzkxNDE0LC03Nj
-UyMDgwMjMsLTQ2Nzk0NzE5MiwtMTQ1NTY1OTA3NF19
+eyJoaXN0b3J5IjpbMTUwMTY3NzE5NSwxMDgzMDYzNzYsLTE3Mj
+EzOTE0MTQsLTc2NTIwODAyMywtNDY3OTQ3MTkyLC0xNDU1NjU5
+MDc0XX0=
 -->
