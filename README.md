@@ -101,9 +101,10 @@ Fichier Membre.js :
 Dans mon fichier `Membre.js` j'importe de React `Fragment`, j'ouvre ensuite ces balise j'y met mon code principal.
 Dans ma fonction Membre je lui fais passer un nouvelle attribut `children`.
 En dessous de emon h2 j'ouvre une accolade a l'intérieur j'utilise mon props children avec une fonction ternaire,
-si children existe alors je return mon p avec comme value `children` qui est en sois égale a `Je suis grand et j'ai des lunettes` 
+si children existe alors je return mon p avec comme value `children` qui est en sois égale a `Je suis grand et j'ai des lunettes` sinon je return un `Fragment` vide.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxNjg1NDQ1LDEwODMwNjM3NiwtMTcyMT
+eyJoaXN0b3J5IjpbMjk1MjczOTg0LDEwODMwNjM3NiwtMTcyMT
 M5MTQxNCwtNzY1MjA4MDIzLC00Njc5NDcxOTIsLTE0NTU2NTkw
 NzRdfQ==
 -->
