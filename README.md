@@ -77,9 +77,11 @@ Fichier App.js:
 		}
 	}
 
+Je ferme ma balise `<Membre>` entre ces deux balise j'y insert du text "j'initia
+
 Fichier Membre.js :
 
-	import React, { Fragment } from  'react' // J'importe Fragment depuis react 
+	import React, { Fragment } from  'react'  
 
 
 	const  Membre  = ({ nom, children }) => {	
@@ -92,7 +94,10 @@ Fichier Membre.js :
 	}
 
 	export  default  Membre
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNTE1NjI1LC0xNzIxMzkxNDE0LC03Nj
-UyMDgwMjMsLTQ2Nzk0NzE5MiwtMTQ1NTY1OTA3NF19
+eyJoaXN0b3J5IjpbLTE4ODQ4MDYyNDQsLTE3MjEzOTE0MTQsLT
+c2NTIwODAyMywtNDY3OTQ3MTkyLC0xNDU1NjU5MDc0XX0=
 -->
