@@ -77,8 +77,43 @@ Fichier App.js:
 		}
 	}
 
-Fichier Membre.js 
+Fichier Membre.js :
+
+	import React, { Fragment } from  'react'
+
+  
+  
+
+	// Component Stateless
+
+  
+
+	const  Membre  = ({ nom, children }) => {
+
+	return (
+
+  
+
+	<Fragment>
+
+	<h2>Membre de la famille: {nom.toUpperCase()}</h2>
+
+	{  children  ?  <p>{children}</p>  :  <Fragment  />  }
+
+	</Fragment>
+
+	)
+
+	}
+
+  
+
+	//
+
+  
+
+export  default  Membre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDAzNDQ3NTQsLTE3MjEzOTE0MTQsLT
+eyJoaXN0b3J5IjpbLTE2NzI5NjYwNDYsLTE3MjEzOTE0MTQsLT
 c2NTIwODAyMywtNDY3OTQ3MTkyLC0xNDU1NjU5MDc0XX0=
 -->
