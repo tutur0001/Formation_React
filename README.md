@@ -77,7 +77,8 @@ Fichier App.js:
 		}
 	}
 
-Je ferme ma balise `<Membre>` entre ces deux balise j'y insert du text "j'initia
+Je ferme ma balise `<Membre>` entre ces deux balise j'y insert du text "j'initialise" le props Children.
+
 
 Fichier Membre.js :
 
@@ -96,8 +97,9 @@ Fichier Membre.js :
 	export  default  Membre
 
 
+Dans mon fichier `Membre.js` j'importe de React `Fragment`, j'ouvre ensuite ces balise j'y met mon code 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ4MDYyNDQsLTE3MjEzOTE0MTQsLT
-c2NTIwODAyMywtNDY3OTQ3MTkyLC0xNDU1NjU5MDc0XX0=
+eyJoaXN0b3J5IjpbLTY0Mjk2MTc4OCwtMTcyMTM5MTQxNCwtNz
+Y1MjA4MDIzLC00Njc5NDcxOTIsLTE0NTU2NTkwNzRdfQ==
 -->
