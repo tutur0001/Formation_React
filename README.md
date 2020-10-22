@@ -59,10 +59,20 @@ Pour cela j'utilise donc `{nom}` tout simplement entre mes balise h2
 
 
 ### La props Children: 
+Exemple d'utilisation du props children: 
 
-
-
+	class App extends Component {
+		render() {
+			return(
+				<div>
+					<h1> Mon super titre</h1>
+					<Membre nom= 'Arthur />
+					<Membre nom= 'Adam' />
+				</div>
+			)
+		}
+	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjEzOTE0MTQsLTc2NTIwODAyMywtND
-Y3OTQ3MTkyLC0xNDU1NjU5MDc0XX0=
+eyJoaXN0b3J5IjpbLTIzMjEyNzMxMCwtMTcyMTM5MTQxNCwtNz
+Y1MjA4MDIzLC00Njc5NDcxOTIsLTE0NTU2NTkwNzRdfQ==
 -->
