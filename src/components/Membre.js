@@ -3,9 +3,9 @@ import React from 'react'
 
 // Component Stateless
 
-const Membre = ({ nom }) => {
+const Membre = ({ nom, age }) => {
     return (
-        <h2>Membre de la famille: {nom.toUpperCase()}</h2>
+        <h2>{nom.toUpperCase()}: {age}</h2>
     )
 }
 
